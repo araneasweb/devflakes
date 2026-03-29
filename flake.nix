@@ -19,6 +19,9 @@
       agda = {
         path = ./agda;
       };
+      scala = {
+        path = ./scala;
+      };
     };
   };
 }
