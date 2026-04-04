@@ -22,6 +22,9 @@
       scala = {
         path = ./scala;
       };
+      haskell = {
+        path = ./haskell;
+      };
     };
   };
 }
